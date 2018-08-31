@@ -4,5 +4,5 @@ set expandtab
 set autoindent
 set nu
 set shiftwidth=4
-set syntax on
+syntax on
 set hlsearch
