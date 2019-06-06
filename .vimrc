@@ -1,3 +1,6 @@
+set laststatus=2
+set cursorline
+set cursorcolumn
 set enc=utf8
 set tabstop=2
 set softtabstop=2
