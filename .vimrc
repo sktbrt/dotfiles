@@ -1,3 +1,4 @@
+set scrolloff=5
 set laststatus=2
 set cursorline
 set cursorcolumn
