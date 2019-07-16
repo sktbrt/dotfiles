@@ -11,6 +11,8 @@ set nu
 set shiftwidth=2
 set hlsearch
 syntax on
+colorscheme molokai
+set t_Co=256
 
 augroup fileTypeIndent
   autocmd!
