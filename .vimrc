@@ -14,6 +14,8 @@ syntax on
 colorscheme molokai
 set t_Co=256
 
+filetype plugin indent on
+
 augroup fileTypeIndent
   autocmd!
   autocmd BufNewFile,BufRead *.php setlocal tabstop=4 softtabstop=4 shiftwidth=4
