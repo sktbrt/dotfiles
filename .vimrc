@@ -11,6 +11,8 @@ set nu
 set shiftwidth=2
 set hlsearch
 syntax on
+
+" mkdir ~/.vim && git clone https://github.com/tomasr/molokai ~/.vim
 colorscheme molokai
 set t_Co=256
 
