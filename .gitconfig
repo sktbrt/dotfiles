@@ -1,0 +1,21 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+name = ****
+email = ********
+[core]
+    excludesfile = ~/.gitignore_global
+[merge]
+    ff = no
+    conflictstyle = diff3
+    tool = vimdiff
+[mergetool]
+    prompt = false
+    keepBackup = false
+[pager]
+  log = diff-highlight | less
+  show = diff-highlight | less
+  diff = diff-highlight | less
+
+[push]
+    default = current
